@@ -159,4 +159,4 @@ else:
             },
         )
     ]
-    add_introspection_rules(rules, ["^django_resized\.forms\.ImageResizedModel"])
+    add_introspection_rules(rules, ["^Image-Resize-Code-Django\.forms\.ImageResizedModel"])
